@@ -1,13 +1,12 @@
 //event listener for when button is pressed
 var button = document.getElementById("btn1");
-button.addEventListener('click', texttypes, false);
+button.addEventListener('click', sliced, false);
 //alert("Hello");
 
 //retrieves the animal entered by user
-function texttypes() {
+function sliced() {
     var inputtext = document.getElementById("userinput1").value;
-    document.getElementById("unmodified").innerHTML = inputtext;
-    document.getElementById("upcase").innerHTML = inputtext.toUpperCase();
-    document.getElementById("lowcase").innerHTML = inputtext.toLowerCase();
+    document.getElementById("sliced1").innerHTML = inputtext.slice(4,5);
+    document.getElementById("sliced2").innerHTML = inputtext.slice(4,8);
 }
 
