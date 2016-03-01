@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\C# (1)\SwitchPresidents\SwitchPresidents\bin\Debug\SwitchPresidents.exe.config
+C:\Users\student\Desktop\C# (1)\SwitchPresidents\SwitchPresidents\bin\Debug\SwitchPresidents.exe
+C:\Users\student\Desktop\C# (1)\SwitchPresidents\SwitchPresidents\bin\Debug\SwitchPresidents.pdb
+C:\Users\student\Desktop\C# (1)\SwitchPresidents\SwitchPresidents\obj\Debug\SwitchPresidents.exe
+C:\Users\student\Desktop\C# (1)\SwitchPresidents\SwitchPresidents\obj\Debug\SwitchPresidents.pdb
+C:\Users\student\Desktop\C# (1)\SwitchPresidents\SwitchPresidents\obj\Debug\SwitchPresidents.csprojResolveAssemblyReference.cache

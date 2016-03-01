@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\C# (1)\CAExample\CAExample\bin\Debug\CAExample.exe.config
+C:\Users\student\Desktop\C# (1)\CAExample\CAExample\bin\Debug\CAExample.exe
+C:\Users\student\Desktop\C# (1)\CAExample\CAExample\bin\Debug\CAExample.pdb
+C:\Users\student\Desktop\C# (1)\CAExample\CAExample\obj\Debug\CAExample.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\C# (1)\CAExample\CAExample\obj\Debug\CAExample.exe
+C:\Users\student\Desktop\C# (1)\CAExample\CAExample\obj\Debug\CAExample.pdb

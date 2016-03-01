@@ -1,0 +1,9 @@
+C:\Users\student\Desktop\C# (1)\Average\Average\bin\Debug\Average.exe.config
+C:\Users\student\Desktop\C# (1)\Average\Average\obj\Debug\Average.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\C# (1)\Average\Average\bin\Debug\Average.exe
+C:\Users\student\Desktop\C# (1)\Average\Average\bin\Debug\Average.pdb
+C:\Users\student\Desktop\C# (1)\Average\Average\obj\Debug\Average.exe
+C:\Users\student\Desktop\C# (1)\Average\Average\obj\Debug\Average.pdb
+C:\Users\student\Documents\GitHub\DPP1-\C\Average\Average\bin\Debug\Average.exe.config
+C:\Users\student\Documents\GitHub\DPP1-\C\Average\Average\obj\Debug\Average.exe
+C:\Users\student\Documents\GitHub\DPP1-\C\Average\Average\obj\Debug\Average.pdb

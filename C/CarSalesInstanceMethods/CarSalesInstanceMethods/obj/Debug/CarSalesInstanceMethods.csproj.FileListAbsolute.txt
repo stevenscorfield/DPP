@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\C# (1)\CarSalesInstanceMethods\CarSalesInstanceMethods\bin\Debug\CarSalesInstanceMethods.exe.config
+C:\Users\student\Desktop\C# (1)\CarSalesInstanceMethods\CarSalesInstanceMethods\bin\Debug\CarSalesInstanceMethods.exe
+C:\Users\student\Desktop\C# (1)\CarSalesInstanceMethods\CarSalesInstanceMethods\bin\Debug\CarSalesInstanceMethods.pdb
+C:\Users\student\Desktop\C# (1)\CarSalesInstanceMethods\CarSalesInstanceMethods\obj\Debug\CarSalesInstanceMethods.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\C# (1)\CarSalesInstanceMethods\CarSalesInstanceMethods\obj\Debug\CarSalesInstanceMethods.exe
+C:\Users\student\Desktop\C# (1)\CarSalesInstanceMethods\CarSalesInstanceMethods\obj\Debug\CarSalesInstanceMethods.pdb

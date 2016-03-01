@@ -1,0 +1,9 @@
+C:\Users\student\Desktop\C# (1)\BookTitles\BookTitles\bin\Debug\BookTitles.exe.config
+C:\Users\student\Desktop\C# (1)\BookTitles\BookTitles\bin\Debug\BookTitles.exe
+C:\Users\student\Desktop\C# (1)\BookTitles\BookTitles\bin\Debug\BookTitles.pdb
+C:\Users\student\Desktop\C# (1)\BookTitles\BookTitles\obj\Debug\BookTitles.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\C# (1)\BookTitles\BookTitles\obj\Debug\BookTitles.exe
+C:\Users\student\Desktop\C# (1)\BookTitles\BookTitles\obj\Debug\BookTitles.pdb
+C:\Users\student\Documents\GitHub\DPP1-\C\BookTitles\BookTitles\bin\Debug\BookTitles.exe.config
+C:\Users\student\Documents\GitHub\DPP1-\C\BookTitles\BookTitles\obj\Debug\BookTitles.exe
+C:\Users\student\Documents\GitHub\DPP1-\C\BookTitles\BookTitles\obj\Debug\BookTitles.pdb

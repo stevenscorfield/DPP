@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\C# (1)\CarSalesObjectOrientated\CarSalesObjectOrientated\bin\Debug\CarSalesObjectOrientated.exe.config
+C:\Users\student\Desktop\C# (1)\CarSalesObjectOrientated\CarSalesObjectOrientated\bin\Debug\CarSalesObjectOrientated.exe
+C:\Users\student\Desktop\C# (1)\CarSalesObjectOrientated\CarSalesObjectOrientated\bin\Debug\CarSalesObjectOrientated.pdb
+C:\Users\student\Desktop\C# (1)\CarSalesObjectOrientated\CarSalesObjectOrientated\obj\Debug\CarSalesObjectOrientated.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\C# (1)\CarSalesObjectOrientated\CarSalesObjectOrientated\obj\Debug\CarSalesObjectOrientated.exe
+C:\Users\student\Desktop\C# (1)\CarSalesObjectOrientated\CarSalesObjectOrientated\obj\Debug\CarSalesObjectOrientated.pdb
