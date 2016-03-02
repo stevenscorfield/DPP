@@ -1,0 +1,18 @@
+C:\Users\student\Desktop\C# (1)\QuizTutorial\QuizTutorial\bin\Debug\QuizTutorial.exe.config
+C:\Users\student\Desktop\C# (1)\QuizTutorial\QuizTutorial\bin\Debug\QuizTutorial.exe
+C:\Users\student\Desktop\C# (1)\QuizTutorial\QuizTutorial\bin\Debug\QuizTutorial.pdb
+C:\Users\student\Desktop\C# (1)\QuizTutorial\QuizTutorial\obj\Debug\QuizTutorial.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\C# (1)\QuizTutorial\QuizTutorial\obj\Debug\QuizTutorial.Form1.resources
+C:\Users\student\Desktop\C# (1)\QuizTutorial\QuizTutorial\obj\Debug\QuizTutorial.Properties.Resources.resources
+C:\Users\student\Desktop\C# (1)\QuizTutorial\QuizTutorial\obj\Debug\QuizTutorial.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\C# (1)\QuizTutorial\QuizTutorial\obj\Debug\QuizTutorial.exe
+C:\Users\student\Desktop\C# (1)\QuizTutorial\QuizTutorial\obj\Debug\QuizTutorial.pdb
+C:\Users\student\Desktop\QuizTutorial\QuizTutorial\bin\Debug\QuizTutorial.exe.config
+C:\Users\student\Desktop\QuizTutorial\QuizTutorial\obj\Debug\QuizTutorial.exe
+C:\Users\student\Desktop\QuizTutorial\QuizTutorial\obj\Debug\QuizTutorial.pdb
+C:\Users\student\Desktop\QuizTutorial\QuizTutorial\obj\Debug\QuizTutorial.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\QuizTutorial\QuizTutorial\obj\Debug\QuizTutorial.Form1.resources
+C:\Users\student\Desktop\QuizTutorial\QuizTutorial\obj\Debug\QuizTutorial.Properties.Resources.resources
+C:\Users\student\Desktop\QuizTutorial\QuizTutorial\obj\Debug\QuizTutorial.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\QuizTutorial\QuizTutorial\bin\Debug\QuizTutorial.exe
+C:\Users\student\Desktop\QuizTutorial\QuizTutorial\bin\Debug\QuizTutorial.pdb

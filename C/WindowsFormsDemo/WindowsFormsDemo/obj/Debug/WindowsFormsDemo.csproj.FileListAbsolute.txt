@@ -1,0 +1,9 @@
+C:\Users\student\Desktop\C# (1)\WindowsFormsDemo\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.exe.config
+C:\Users\student\Desktop\C# (1)\WindowsFormsDemo\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.exe
+C:\Users\student\Desktop\C# (1)\WindowsFormsDemo\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.pdb
+C:\Users\student\Desktop\C# (1)\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\C# (1)\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.Form1.resources
+C:\Users\student\Desktop\C# (1)\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.Properties.Resources.resources
+C:\Users\student\Desktop\C# (1)\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\C# (1)\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.exe
+C:\Users\student\Desktop\C# (1)\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.pdb
