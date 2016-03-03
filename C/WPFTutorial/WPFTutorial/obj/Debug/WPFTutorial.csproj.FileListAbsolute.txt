@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\C# (1)\WPFTutorial\WPFTutorial\bin\Debug\WPFTutorial.exe.config
+C:\Users\student\Desktop\C# (1)\WPFTutorial\WPFTutorial\bin\Debug\WPFTutorial.exe
+C:\Users\student\Desktop\C# (1)\WPFTutorial\WPFTutorial\bin\Debug\WPFTutorial.pdb
+C:\Users\student\Desktop\C# (1)\WPFTutorial\WPFTutorial\obj\Debug\WPFTutorial.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\C# (1)\WPFTutorial\WPFTutorial\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\C# (1)\WPFTutorial\WPFTutorial\obj\Debug\App.g.cs
+C:\Users\student\Desktop\C# (1)\WPFTutorial\WPFTutorial\obj\Debug\WPFTutorial_MarkupCompile.cache
+C:\Users\student\Desktop\C# (1)\WPFTutorial\WPFTutorial\obj\Debug\WPFTutorial_MarkupCompile.lref
+C:\Users\student\Desktop\C# (1)\WPFTutorial\WPFTutorial\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\C# (1)\WPFTutorial\WPFTutorial\obj\Debug\WPFTutorial.g.resources
+C:\Users\student\Desktop\C# (1)\WPFTutorial\WPFTutorial\obj\Debug\WPFTutorial.Properties.Resources.resources
+C:\Users\student\Desktop\C# (1)\WPFTutorial\WPFTutorial\obj\Debug\WPFTutorial.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\C# (1)\WPFTutorial\WPFTutorial\obj\Debug\WPFTutorial.exe
+C:\Users\student\Desktop\C# (1)\WPFTutorial\WPFTutorial\obj\Debug\WPFTutorial.pdb
