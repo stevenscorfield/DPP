@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\C# (1)\externalExample\externalExample\bin\Debug\externalExample.exe.config
+C:\Users\student\Desktop\C# (1)\externalExample\externalExample\bin\Debug\externalExample.exe
+C:\Users\student\Desktop\C# (1)\externalExample\externalExample\bin\Debug\externalExample.pdb
+C:\Users\student\Desktop\C# (1)\externalExample\externalExample\obj\Debug\externalExample.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\C# (1)\externalExample\externalExample\obj\Debug\externalExample.Form1.resources
+C:\Users\student\Desktop\C# (1)\externalExample\externalExample\obj\Debug\externalExample.Properties.Resources.resources
+C:\Users\student\Desktop\C# (1)\externalExample\externalExample\obj\Debug\externalExample.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\C# (1)\externalExample\externalExample\obj\Debug\externalExample.exe
+C:\Users\student\Desktop\C# (1)\externalExample\externalExample\obj\Debug\externalExample.pdb
+C:\Users\student\Desktop\C# (1)\externalExample\externalExample\obj\Debug\externalExample.Form2.resources
