@@ -1,0 +1,9 @@
+C:\Users\student\Desktop\C# (1)\BioloadCalculator\BioloadCalculator\bin\Debug\BioloadCalculator.exe.config
+C:\Users\student\Desktop\C# (1)\BioloadCalculator\BioloadCalculator\bin\Debug\BioloadCalculator.exe
+C:\Users\student\Desktop\C# (1)\BioloadCalculator\BioloadCalculator\bin\Debug\BioloadCalculator.pdb
+C:\Users\student\Desktop\C# (1)\BioloadCalculator\BioloadCalculator\obj\Debug\BioloadCalculator.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\C# (1)\BioloadCalculator\BioloadCalculator\obj\Debug\BioloadCalculator.Form1.resources
+C:\Users\student\Desktop\C# (1)\BioloadCalculator\BioloadCalculator\obj\Debug\BioloadCalculator.Properties.Resources.resources
+C:\Users\student\Desktop\C# (1)\BioloadCalculator\BioloadCalculator\obj\Debug\BioloadCalculator.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\C# (1)\BioloadCalculator\BioloadCalculator\obj\Debug\BioloadCalculator.exe
+C:\Users\student\Desktop\C# (1)\BioloadCalculator\BioloadCalculator\obj\Debug\BioloadCalculator.pdb

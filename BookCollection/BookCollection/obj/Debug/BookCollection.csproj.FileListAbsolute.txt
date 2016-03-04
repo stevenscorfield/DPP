@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\C# (1)\BookCollection\BookCollection\bin\Debug\BookCollection.exe.config
+C:\Users\student\Desktop\C# (1)\BookCollection\BookCollection\bin\Debug\BookCollection.mdf
+C:\Users\student\Desktop\C# (1)\BookCollection\BookCollection\bin\Debug\BookCollection_log.ldf
+C:\Users\student\Desktop\C# (1)\BookCollection\BookCollection\bin\Debug\BookCollection.exe
+C:\Users\student\Desktop\C# (1)\BookCollection\BookCollection\bin\Debug\BookCollection.pdb
+C:\Users\student\Desktop\C# (1)\BookCollection\BookCollection\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\C# (1)\BookCollection\BookCollection\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\C# (1)\BookCollection\BookCollection\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\C# (1)\BookCollection\BookCollection\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\C# (1)\BookCollection\BookCollection\obj\Debug\BookCollection.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\C# (1)\BookCollection\BookCollection\obj\Debug\BookCollection.Form1.resources
+C:\Users\student\Desktop\C# (1)\BookCollection\BookCollection\obj\Debug\BookCollection.Properties.Resources.resources
+C:\Users\student\Desktop\C# (1)\BookCollection\BookCollection\obj\Debug\BookCollection.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\C# (1)\BookCollection\BookCollection\obj\Debug\BookCollection.exe
+C:\Users\student\Desktop\C# (1)\BookCollection\BookCollection\obj\Debug\BookCollection.pdb

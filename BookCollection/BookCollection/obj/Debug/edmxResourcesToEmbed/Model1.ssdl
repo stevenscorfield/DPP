@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BookCollectionModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Author">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'C:\USERS\STUDENT\DESKTOP\C# (1)\BOOKCOLLECTION\BOOKCOLLECTION\BOOKCOLLECTION.MDF.dbo.ISBN' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="ISBN">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="Number" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Number" Type="int" Nullable="false" />
+    <Property Name="TitleID" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'C:\USERS\STUDENT\DESKTOP\C# (1)\BOOKCOLLECTION\BOOKCOLLECTION\BOOKCOLLECTION.MDF.dbo.Price' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Price">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="Amount" />
+      <PropertyRef Name="TitleID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Amount" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="TitleID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Title">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="AuthorID" Type="int" />
+  </EntityType>
+  <Association Name="FK_ISBN_Title">
+    <End Role="Title" Type="Self.Title" Multiplicity="0..1" />
+    <End Role="ISBN" Type="Self.ISBN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Title">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="ISBN">
+        <PropertyRef Name="TitleID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Price_Title">
+    <End Role="Title" Type="Self.Title" Multiplicity="1" />
+    <End Role="Price" Type="Self.Price" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Title">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Price">
+        <PropertyRef Name="TitleID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Title_Author">
+    <End Role="Author" Type="Self.Author" Multiplicity="0..1" />
+    <End Role="Title" Type="Self.Title" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Author">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Title">
+        <PropertyRef Name="AuthorID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BookCollectionModelStoreContainer">
+    <EntitySet Name="Author" EntityType="Self.Author" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Title" EntityType="Self.Title" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ISBN" EntityType="Self.ISBN" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [ISBN].[ID] AS [ID], 
+    [ISBN].[Number] AS [Number], 
+    [ISBN].[TitleID] AS [TitleID]
+    FROM [dbo].[ISBN] AS [ISBN]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Price" EntityType="Self.Price" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Price].[ID] AS [ID], 
+    [Price].[Amount] AS [Amount], 
+    [Price].[TitleID] AS [TitleID]
+    FROM [dbo].[Price] AS [Price]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_ISBN_Title" Association="Self.FK_ISBN_Title">
+      <End Role="Title" EntitySet="Title" />
+      <End Role="ISBN" EntitySet="ISBN" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Price_Title" Association="Self.FK_Price_Title">
+      <End Role="Title" EntitySet="Title" />
+      <End Role="Price" EntitySet="Price" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Title_Author" Association="Self.FK_Title_Author">
+      <End Role="Author" EntitySet="Author" />
+      <End Role="Title" EntitySet="Title" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

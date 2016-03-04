@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BookCollectionModelStoreContainer" CdmEntityContainer="BookCollectionEntities">
+    <EntitySetMapping Name="Authors">
+      <EntityTypeMapping TypeName="BookCollectionModel.Author">
+        <MappingFragment StoreEntitySet="Author">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="BookCollectionModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Titles">
+      <EntityTypeMapping TypeName="BookCollectionModel.Title">
+        <MappingFragment StoreEntitySet="Title">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="AuthorID" ColumnName="AuthorID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ISBNs">
+      <EntityTypeMapping TypeName="BookCollectionModel.ISBN">
+        <MappingFragment StoreEntitySet="ISBN">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Number" ColumnName="Number" />
+          <ScalarProperty Name="TitleID" ColumnName="TitleID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Prices">
+      <EntityTypeMapping TypeName="BookCollectionModel.Price">
+        <MappingFragment StoreEntitySet="Price">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="TitleID" ColumnName="TitleID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
