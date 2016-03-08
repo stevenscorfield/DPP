@@ -1,0 +1,78 @@
+Four group of operators:
+	- Arithmetic	:- mathematical expressions (+ - / * %| ++ -- )
+	
+	- bitwise	:- can be appled to an integer type: long, int, short, char, and byte.
+				> Important to know how Java stores integer values and how it represents negative numbers
+	
+				Explain Binary:
+				> All of the integer types are represented by binary numbers of variying bit widths.
+				> Covert between decimal to binary Byte value of 42(42 = 00101010)
+				> All of the integer types (except char) are signed intergers. This means that they can represent
+				  negative values as well as positive ones.
+				  
+				  Java: use encoding known as "Two's complement"
+				  	> NEGATIVE NUMBERS are representd by INVERTING 1s and 0s, and vice versa
+				  	> -42 is represented by 00101010 => 11010101
+				  		Then, adding 1 to the result => 11010110 (-42)
+				  		When you invert back, it yields 41, so adding 1 to the result would make it 42
+				  		
+				BITWISE NOT (~)
+					> Inverts all of the bits of its operand.
+					
+						00101010
+					becomes
+						11010101
+					
+				BITWISE AND (&)
+					> products a 1 bit if both operands are also 1. 0 is produced in all other cases.
+					
+					00101010 42
+				  & 00001111 15
+					__________
+					00001010 10
+					
+				BITWISE OR (|)
+					> combines bits such that if either of the bits in the operands is a 1, then result is 1.
+					
+					
+					00101010 42
+				  | 00001111 15
+					_________
+					00101111 47
+					
+				BITWISE XOR (^)
+					> combines bit such that if exactly one operand is 1, then the result is 1. Otherwise, 0.
+
+					00101010 42
+				  ^ 00001111 15
+					_________
+					00100101 37
+				
+
+				
+	- relational: outcome is boolean value
+		
+		> Operator 		Result
+			== 			Equal to
+			!= 			Not equal to
+			> 			Greater than
+			< 			Less than
+			>= 			Greater than or equal to
+			<= 			Less than or equal to
+	
+	- Boolean logical Operators
+	
+		> Operator 		Result
+			& 			Logical AND
+			| 			Logical OR
+			^ 			Logical XOR (exclusive OR)
+			|| 			Short-circuit OR
+			&& 			Short-circuit AND
+			! 			Logical unary NOT
+			&= 			AND assignment
+			|= 			OR assignment
+			^= 			XOR assignment
+			== 			Equal to
+			!= 			Not equal to
+			?: 			Ternary if-then-else
+
